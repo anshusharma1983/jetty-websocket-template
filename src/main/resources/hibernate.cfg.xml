@@ -19,6 +19,6 @@
 <property name="hibernate.dbcp.validationQuery">select 1</property> 
 <property name="hibernate.dbcp.testOnBorrow">true</property> 
 <property name="hibernate.dbcp.testOnReturn">true</property> 
-		<mapping class="com.chesshunt.db.domain.Messages"></mapping>
+		<mapping class="com.anshu.db.domain.Messages"></mapping>
 	</session-factory>
 </hibernate-configuration>

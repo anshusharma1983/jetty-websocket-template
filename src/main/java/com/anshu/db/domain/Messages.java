@@ -1,4 +1,4 @@
-package com.chesshunt.db.domain;
+package com.anshu.db.domain;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

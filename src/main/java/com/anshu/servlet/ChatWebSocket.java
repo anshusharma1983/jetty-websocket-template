@@ -1,4 +1,4 @@
-package com.chesshunt.servlet;
+package com.anshu.servlet;
 
 import java.io.IOException;
 import java.util.Set;
@@ -9,8 +9,8 @@ import org.hibernate.Transaction;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.chesshunt.db.dao.HibernateUtil;
-import com.chesshunt.db.domain.Messages;
+import com.anshu.db.dao.HibernateUtil;
+import com.anshu.db.domain.Messages;
 
 /**
  * 

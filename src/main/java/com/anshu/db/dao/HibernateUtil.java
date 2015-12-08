@@ -1,4 +1,4 @@
-package com.chesshunt.db.dao;
+package com.anshu.db.dao;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;

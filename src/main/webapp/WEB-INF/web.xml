@@ -5,7 +5,7 @@
 	<display-name>Jetty websockets template</display-name>
 	<servlet>
 		<servlet-name>WebSocketChat</servlet-name>
-		<servlet-class>com.chesshunt.servlet.WebSocketChatServlet</servlet-class>
+		<servlet-class>com.anshu.servlet.WebSocketChatServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>WebSocketChat</servlet-name>
