@@ -12,7 +12,7 @@ function initializeWebSocket() {
 			alert("The browser does not support websockets. Please install latest chrome or firefox.");
 			return;
 		}
-		var wsURL = "ws://localhost:9999/WebSocketChat/anything";
+		var wsURL = "ws://localhost:9999/sample/anything";
 		ws = new WebSocket(wsURL);
 		var html = "";
 		ws.onopen = function(event) {

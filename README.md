@@ -25,4 +25,6 @@ $ mvn -Djetty.port=9999 jetty:run
 ```
 6. Check the magic on http://localhost:9999/
 
+**Working demo**: http://ec2-52-35-143-86.us-west-2.compute.amazonaws.com:9999/jetty/
+
 

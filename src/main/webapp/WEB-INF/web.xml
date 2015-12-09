@@ -9,6 +9,6 @@
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>WebSocketChat</servlet-name>
-		<url-pattern>/WebSocketChat/*</url-pattern>
+		<url-pattern>/sample/*</url-pattern>
 	</servlet-mapping>
 </web-app>
